@@ -1,0 +1,12 @@
+.navbar-default {
+    background-color: #1ABC9C;
+    border-color: purple;
+}
+.navbar {
+  margin: 0;
+}
+
+.images {
+  height: 100px;
+  width: 250px;
+}
